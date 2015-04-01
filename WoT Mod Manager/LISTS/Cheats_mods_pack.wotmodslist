@@ -1,12 +1,12 @@
 [1]
 Name=Минималистичный прицел + ДМ для арты
 Group=1
-UpdateDownload=
-UpdateCheck=
+UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Минималистичный_прицел+ДМ_для_арты/Минималистичный прицел + ДМ для арты.wotmod
+UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Минималистичный_прицел+ДМ_для_арты/version.txt
 Checked=False
-Size=1085491
+Size=1085583
 [Main]
 Count=1
-Version=#1_0.9.6_26.12.2014
-UpdateDownload=http://u.to/6u--Ag
-UpdateCheck=http://u.to/OvD-Ag
+Version=#1 0.9.6
+UpdateDownload=0
+UpdateCheck=0
