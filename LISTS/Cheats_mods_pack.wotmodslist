@@ -4,9 +4,14 @@ Group=1
 UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Минималистичный_прицел+ДМ_для_арты/Минималистичный прицел + ДМ для арты.wotmod
 UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Минималистичный_прицел+ДМ_для_арты/version.txt
 Checked=False
-Size=1085583
+[2]
+Name=Подгрузчики модов
+Group=0
+UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/MODS/0_Разное/Подгрузчики_модов/Подгрузчики_модов.wotmod
+UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/0_Разное/Подгрузчики_модов/version.txt
+Checked=False
 [Main]
-Count=1
+Count=2
 Version=#1 0.9.6
 UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/LISTS/Cheats_mods_pack.wotmodslist
 UpdateCheck=https://raw.githubusercontent.com/aa1982/WoTMM/master/LISTS/Cheats_mods_pack.wotmodslist.version.txt
