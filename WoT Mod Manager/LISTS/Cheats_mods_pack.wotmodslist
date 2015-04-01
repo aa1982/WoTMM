@@ -1,122 +1,12 @@
 [1]
-Name=XVM и мини карта с названиями танков
-Group=5
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/XVM%20i%20minimaps%20s%20tankami/XVM%20i%20minimaps%20s%20tankami.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/XVM%20i%20minimaps%20s%20tankami/version.txt
-Checked=False
-Size=8455945
-[2]
-Name=Боевой интерфейс от zayaz
-Group=2
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d0%b0%d0%bd%d0%b5%d0%bb%d0%b8/Interface_zayaz/Interface_zayaz.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d0%b0%d0%bd%d0%b5%d0%bb%d0%b8/Interface_zayaz/version.txt
-Checked=False
-Size=1570335
-[3]
-Name=Контурные пробития
-Group=6
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%a8%d0%ba%d1%83%d1%80%d0%ba%d0%b8/kontur/kontur.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%a8%d0%ba%d1%83%d1%80%d0%ba%d0%b8/kontur/version.txt
-Checked=False
-[4]
-Name=Контурные пробития Lemon96
-Group=6
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%a8%d0%ba%d1%83%d1%80%d0%ba%d0%b8/%d0%9a%d0%be%d0%bd%d1%82%d1%83%d1%80%d0%bd%d1%8b%d0%b5%20%d0%bf%d1%80%d0%be%d0%b1%d0%b8%d1%82%d0%b8%d1%8f%20Lemon96/%d0%9a%d0%be%d0%bd%d1%82%d1%83%d1%80%d0%bd%d1%8b%d0%b5%20%d0%bf%d1%80%d0%be%d0%b1%d0%b8%d1%82%d0%b8%d1%8f%20Lemon96.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%a8%d0%ba%d1%83%d1%80%d0%ba%d0%b8/%d0%9a%d0%be%d0%bd%d1%82%d1%83%d1%80%d0%bd%d1%8b%d0%b5%20%d0%bf%d1%80%d0%be%d0%b1%d0%b8%d1%82%d0%b8%d1%8f%20Lemon96/version.txt
-Checked=False
-[5]
-Name=Минипанель
-Group=2
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d0%b0%d0%bd%d0%b5%d0%bb%d0%b8/minipanel/minipanel.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d0%b0%d0%bd%d0%b5%d0%bb%d0%b8/minipanel/version.txt
-Checked=False
-Size=342337
-[6]
-Name=направление стволов противника
-Group=5
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/napravlenie%20gun/napravlenie%20gun.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/napravlenie%20gun/version.txt
-Checked=False
-Size=49004
-[7]
-Name=Отлетающая душа танка
-Group=0
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%a0%d0%b0%d0%b7%d0%bd%d0%be%d0%b5/1aprelya/1aprelya.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%a0%d0%b0%d0%b7%d0%bd%d0%be%d0%b5/1aprelya/version.txt
-Checked=False
-Size=8228978
-[8]
-Name=Панель повреждений как в rpg
-Group=2
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d0%b0%d0%bd%d0%b5%d0%bb%d0%b8/panel_kak_v_rpg/panel_kak_v_rpg.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d0%b0%d0%bd%d0%b5%d0%bb%d0%b8/panel_kak_v_rpg/version.txt
-Checked=False
-Size=528062
-[9]
-Name=Прицел 080
+Name=Минималистичный прицел + ДМ для арты
 Group=1
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair_080_MLRS/crosshair_080_MLRS.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair_080_MLRS/version.txt
+UpdateDownload=
+UpdateCheck=
 Checked=False
-Size=1859777
-[10]
-Name=Прицел 12
-Group=1
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20%2012/crosshair%20%2012.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20%2012/version.txt
-Checked=False
-Size=3131748
-[11]
-Name=Прицел 4_0
-Group=1
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%204_0/crosshair%204_0.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%204_0/version.txt
-Checked=False
-Size=1608070
-[12]
-Name=Прицел animated-3
-Group=1
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/animated-3/crosshair%20%20animated-3.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/animated-3/version.txt
-Checked=False
-Size=1587695
-[13]
-Name=Прицел kap0nir
-Group=1
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20kap0nir/crosshair%20kap0nir.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20kap0nir/version.txt
-Checked=False
-Size=1351361
-[14]
-Name=Прицел tayran
-Group=1
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20tayran/crosshair%20tayran.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20tayran/version.txt
-Checked=False
-Size=1126845
-[15]
-Name=Прицел от J1mB091
-Group=1
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20J1mB091/crosshair%20J1mB091.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%9f%d1%80%d0%b8%d1%86%d0%b5%d0%bb%d1%8b/crosshair%20J1mB091/version.txt
-Checked=False
-Size=999267
-[16]
-Name=Танки в ангаре в 2 ряда 
-Group=5
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/TankCarousel/TankCarousel.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/TankCarousel/version.txt
-Checked=False
-Size=338385
-[17]
-Name=Часы и лаг в бою
-Group=5
-UpdateDownload=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/time_i_lag/time_i_lag.wotmod
-UpdateCheck=https://psychomod.googlecode.com/svn/trunk/MODS/%d0%98%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81/time_i_lag/version.txt
-Checked=False
-Size=110661
+Size=1085491
 [Main]
-Count=17
-Version=3.0
+Count=1
+Version=#1_0.9.6_26.12.2014
 UpdateDownload=http://u.to/6u--Ag
 UpdateCheck=http://u.to/OvD-Ag
