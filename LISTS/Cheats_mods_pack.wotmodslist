@@ -8,5 +8,5 @@ Size=1085583
 [Main]
 Count=1
 Version=#1 0.9.6
-UpdateDownload=0
-UpdateCheck=0
+UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/LISTS/Cheats_mods_pack.wotmodslist
+UpdateCheck=https://raw.githubusercontent.com/aa1982/WoTMM/master/LISTS/Cheats_mods_pack.wotmodslist.version.txt
