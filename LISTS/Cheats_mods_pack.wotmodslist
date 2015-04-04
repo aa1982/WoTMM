@@ -12,6 +12,6 @@ UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/0_Разное/Подгрузчики
 Checked=False
 [Main]
 Count=2
-Version=#1 0.9.6
+Version=#2 0.9.6
 UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/LISTS/Cheats_mods_pack.wotmodslist
 UpdateCheck=https://raw.githubusercontent.com/aa1982/WoTMM/master/LISTS/Cheats_mods_pack.wotmodslist.version.txt
