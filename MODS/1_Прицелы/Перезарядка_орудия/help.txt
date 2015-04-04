@@ -1,0 +1,33 @@
+Минималистичный аркадный и снайперский прицел
+Дамоклов Меч для арты с дополнительными (желтые 20 и 30 км/ч) и умными (максимальная скорость техники вперед/назад) кругами хода.
+Файлы мода:
+gui\scaleform\crosshair_panel_arcade.swf 
+gui\scaleform\crosshair_panel_sniper.swf 
+gui\scaleform\crosshair_panel_strategic.swf 
+gui\scaleform\crosshair_sniper.swf 
+gui\scaleform\crosshair_strategic.swf 
+gui\scaleform\MSSetting.xml 
+gui\scaleform\DM\DM_artillery.xml 
+gui\scaleform\DM\DM_svedenie.xml 
+gui\scaleform\ms\grid 1.png 
+gui\scaleform\ms\grid 2.png 
+gui\scaleform\ms\grid 3.png 
+gui\scaleform\ms\grid 4.png 
+gui\scaleform\ms\grid 5.png 
+gui\scaleform\ms\marker 1.png 
+gui\scaleform\ms\marker 10.png 
+gui\scaleform\ms\marker 2.png 
+gui\scaleform\ms\marker 3.png 
+gui\scaleform\ms\marker 4.png 
+gui\scaleform\ms\marker 5.png 
+gui\scaleform\ms\marker 6.png 
+gui\scaleform\ms\marker 7.png 
+gui\scaleform\ms\marker 8.png 
+gui\scaleform\ms\marker 9.png 
+scripts\client\mods\ProSights.pyc 
+scripts\client\mods\ProSights\crosshairArcade.ptc 
+scripts\client\mods\ProSights\crosshairSniper.ptc 
+scripts\client\mods\ProSights\crosshairStrategic.ptc 
+scripts\client\mods\ProSights\gunMarkerArcadeSniper.ptc 
+scripts\client\mods\ProSights\gunMarkerStrategic.ptc 
+scripts\client\mods\ProSights\reducedArmor.ptc
