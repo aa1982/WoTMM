@@ -1,0 +1,107 @@
+
+{
+
+	"status": true,
+	"forces": true,
+	
+	"builds": "0.9.6",
+	"notice":
+		
+		{
+		
+		"banners": "Информация об обновлении",
+		"message":
+		
+			[
+				"<br>",
+				"<p align='center'>",
+					"<font color='#FFFFFF' size='17'>Список изминений на {date}</font>",
+				"</p>",
+				"<br> — Проверка работоспособности скрипта",
+				"<br> — Исправление падения FPS после нескольких боев",
+				"<br> — Исправления конфига для XVM от ModerTeam",
+				"<br> — Исправления конфига для XVM от Kotyarko_О",
+				"<br> — Исправления конфига для XVM от Metalist95",
+				"<br> — Исправления конфига для XVM от XSerzHX",
+				"<br> — Добавлено 6 новых различных игровых прицелов",
+				"<br> — Добавлено 10 новых различных праздничных ангаров",
+				"<br> — Обновление графической части инсталятора модпака",
+				"<p align='center'>",
+					"<br>",
+					"<br><font color='#FFFFFF'>С уважением, ваша команда разработчиков модпака.</font>",
+					"<br>",
+				"</p>"
+			],
+		
+		"typeUrl": "http://moderteam.ru/forum/topic/1695-",
+		"buttons":
+			
+			[
+				{
+					"labels": "Перейти",
+					"values": "submit",
+					"forced": 1
+				},
+				{
+					"labels": "Закрыть",
+					"values": "close",
+					"forced": 0
+				}
+			]
+		},
+
+	"levels": "medium",
+	"server":
+	
+		{
+		
+		"express": false,
+		"message":
+		
+			[
+				"<br>",
+				"<p align='center'>",
+					"<font color='#FFFFFF' size='17'>Доступно новое обновление</font>",
+				"</p>",
+				"<br>",
+				"<textformat tabstops='[180]' leading='2'>",
+					"<font>Установлена версия:</font>",
+					"<tab>",
+					"<tab>",
+					"<font size='15' color='#eb2222'>{olds}</font>",
+				"</textformat>",
+				"<br>",
+				"<textformat tabstops='[180]' leading='2'>",
+					"<font>Обновленная версия:</font>",
+					"<tab>",
+					"<tab>",
+					"<font size='15' color='#12c812'>{news}</font>",
+				"</textformat>"
+				
+			],
+		
+		"bodyKey": "../../scripts/client/mods/NotificationBox/default/background.png",
+		"iconKey": "",
+		"timeKey": "04.03.2015 20:01",
+		
+		"typeUrl": "http://moderteam.ru/forum/topic/1695-",
+		"buttons":
+		
+			[
+				{
+					"action": "openPopUp",
+					"type": "submit",
+					"label": "Подробнее",
+					"width": 110
+				},
+				{
+					"action": "openClose",
+					"type": "cancel",
+					"label": "Не показывать",
+					"width": 110
+				}
+			]
+			
+		}
+
+}
