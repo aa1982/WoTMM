@@ -4,15 +4,22 @@ Group=0
 UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/MODS/0_Разное/Информер_обновлений/Информер_обновлений.wotmod
 UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/0_Разное/Информер_обновлений/version.txt
 Checked=False
-Size=271890
+Size=271891
 [2]
 Name=Минималистичный прицел + ДМ для арты
 Group=1
 UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Минималистичный_прицел+ДМ_для_арты/Минималистичный прицел + ДМ для арты.wotmod
 UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Минималистичный_прицел+ДМ_для_арты/version.txt
 Checked=False
-Size=1085584
+Size=1086492
 [3]
+Name=Перезарядка над танком
+Group=1
+UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Перезарядка_орудия/Перезарядка_орудия.wotmod
+UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/1_Прицелы/Перезарядка_орудия/version.txt
+Checked=False
+Size=410330
+[4]
 Name=Подгрузчики модов
 Group=0
 UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/MODS/0_Разное/Подгрузчики_модов/Подгрузчики_модов.wotmod
@@ -20,7 +27,7 @@ UpdateCheck=https://github.com/aa1982/WoTMM/raw/master/MODS/0_Разное/Подгрузчики
 Checked=False
 Size=21418
 [Main]
-Count=3
+Count=4
 Version=#2 0.9.6
 UpdateDownload=https://github.com/aa1982/WoTMM/raw/master/LISTS/Cheats_mods_pack.wotmodslist
 UpdateCheck=https://raw.githubusercontent.com/aa1982/WoTMM/master/LISTS/Cheats_mods_pack.wotmodslist.version.txt
